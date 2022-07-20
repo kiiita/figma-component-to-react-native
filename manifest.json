@@ -1,0 +1,12 @@
+{
+  "name": "Figma to ReactNative Component",
+  "id": "1131381188644213571",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "ui": "ui.html"
+}
